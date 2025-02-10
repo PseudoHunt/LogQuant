@@ -8,7 +8,7 @@ __all__ = [
     "resnet34",
     "resnet50",
 ]
-
+#https://github.com/huyvnphan/PyTorch_CIFAR10.git
 
 def conv3x3(in_planes, out_planes, stride=1, groups=1, dilation=1):
     """3x3 convolution with padding"""
